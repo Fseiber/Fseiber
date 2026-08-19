@@ -1,19 +1,24 @@
-Hola 👋 Soy Facundo Seiber
+👋 ¡Hola! Soy Facundo.
 
-💻 Estudiante de Desarrollo de Software
+💻 Estudiante de Desarrollo de Software, apasionado por la programación y el desarrollo web.
 
-🛠️ Tecnologías:
-- Python
-- Django
-- JavaScript
-- HTML
-- CSS
-- MySQL
+🛠️ Tecnologías
 
-📚 Actualmente aprendiendo:
-- React
-- Node.js
-- TypeScript
+- 🐍 Python · Django
+- ⚡ JavaScript
+- 🌐 HTML · CSS
+- 🗄️ MySQL
+- 🔧 Git · GitHub
+
+📚 Actualmente aprendiendo
+
+- ⚛️ React
+- 🟢 Node.js
+- 🔷 TypeScript
+
+🚀 Siempre buscando aprender, crear proyectos y mejorar mis habilidades como desarrollador.
+
+📌 "Aprender, construir y seguir mejorando."
 
 <!--
 **Fseiber/Fseiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

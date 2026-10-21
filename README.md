@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Facundo Seiber
+#¡Hola! Soy Facundo Seiber
 
 ### 💻 Desarrollador de Software en formación | Full Stack Developer
 
